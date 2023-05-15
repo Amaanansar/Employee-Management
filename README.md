@@ -1,5 +1,7 @@
 # Employee Management System
 
+Login Id is shaans7892@gmail.com and password is ItsMe
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
 ## Development server
